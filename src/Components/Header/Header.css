@@ -1,0 +1,9 @@
+.active {
+  border: 2px solid #23be0a;
+  background-color: white;
+  box-sizing: border-box;
+  border: 1px solid rgb(35, 190, 10);
+  border-radius: 8px;
+  font-weight: 600;
+  color: #23BE0A;
+}
